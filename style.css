@@ -28,6 +28,7 @@
     background: lightblue;
     display: flex;
     place-content: center;
+    gap: 1em;
 }
 .container .box{
     width: 100px;
